@@ -94,7 +94,3 @@ def plot_start_state(ax = {(1, 7), (4, 6), (8, 10), (9, 9), (10, 8)}):
 
   plt.show()
 
-plot_start_state()
-
-plot_start_state(ax = {(4, 6), (8, 10), (9, 9)})
-
